@@ -29,16 +29,16 @@ We are required to model the demand for shared bikes with the available independ
 
 ## Technologies Used
 - library 
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.model_selection import train_test_splitfrom sklearn.preprocessing import MinMaxScaler
-from sklearn.feature_selection import RFE
-from sklearn.linear_model import LinearRegression
-from statsmodels.stats.outliers_influence import variance_inflation_factor
-import statsmodels.api as sm
-from sklearn.metrics import r2_score
+- import numpy as np
+- import pandas as pd
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+- from sklearn.model_selection import train_test_splitfrom sklearn.preprocessing import MinMaxScaler
+- from sklearn.feature_selection import RFE
+- from sklearn.linear_model import LinearRegression
+- from statsmodels.stats.outliers_influence import variance_inflation_factor
+- import statsmodels.api as sm
+- from sklearn.metrics import r2_score
 - Jupiter Notebook  
 - Python version - Python 3.11.7
 
